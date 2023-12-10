@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>PEACE IN CHRIST__CONTACT_INFORMATION</title>
+  <meta content="THIS IS THE OFFICIAL PAGE OF PEACE IN CHRIST AND 
+  WE ARE ON A MISSION OF PREACHING THE GOOD NEWS ABOUT OUR LORD AND SAVIOUR JESUS CHRIST
+  " name="description">
+  <meta content="PEACE IN CHRIST, CHRISTIAN,JESUS CHRIST,CONTACT-PEACE-IN-CHRIST,
+  yaounde,Symbock" name="keywords">
+  <meta name="author" content="peace in christ || NDINTEK HANDSON NJAI">
+
+  <!-- Favicons -->
+  <link href="assets/img/LOGO_HOME_PAGE.jpg" rel="icon">
+  <link href="assets/img/LOGO_HOME_PAGE.jpg" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,
+  600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-phone d-flex align-items-center"><span>+237 681506575</span></i>
+        <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sun: 00AM - 23PM</span></i>
+      </div>
+
+      <div class="languages d-none d-md-flex align-items-center">
+        <ul>
+          <li>EN</li>
+          <li><a href="#">FR</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-cente">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
+
+
+
+      <!-- image logo -->
+      <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/LOGO_HOME_PAGE.jpg"
+          alt="LOGO-PEACE-IN-CHRIST" class="img-fluid"></a>
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto " href="index.html">Home</a></li>
+          <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
+
+          <li><a class="nav-link scrollto" href="index.html#events">Events</a></li>
+          <li class="dropdown"><a href="index.html#top-preacher"><span>Preachers</span> <i
+                class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href=".html#top-preacher">TOP PREACHERS</a></li>
+              <li class="dropdown"><a href="#"><span>PREACHERS BY REGION</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">AFRICA</a></li>
+                  <li><a href="#">AMERICA</a></li>
+                  <li><a href="#">EUROPE</a></li>
+                  <li><a href="#">ASIA</a></li>
+                </ul>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="gallery.html">Gallery</a></li>
+          <li class="dropdown"><a href="index.html#resources"><span>Resources</span> <i
+                class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="library.html">CHRISTIAN LIBRARY</a></li>
+              <li class="dropdown"><a href="#"><span>CHRISTIAN AUTHORS</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">DAG HEWARD MILLS</a></li>
+                  <li><a href="#">BISHOP DAVID OYEDEPO</a></li>
+                  <li><a href="#">DR. PAUL ENECHE</a></li>
+                  <li><a href="#">DR. MYLES</a></li>
+                  <li><a href="#">PASTOR CHRIST OHAKIHILOME</a></li>
+                </ul>
+              </li>
+              <li><a href="#">CHRISTIAN BOOKS</a></li>
+              <li><a href="#">CHRISTIAN MOVIES</a></li>
+              <li><a href="#">BIBLICAL TEACHINGS</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto active" href="contact.html">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+      <a href="sign-up.html" class="book-a-table-btn scrollto d-none d-lg-flex">SIGN UP</a>
+
+    </div>
+  </header><!-- End Header -->
+  <!-- ======= Breadcrumbs ======= -->
+  <div class="breadcrumbs1">
+    <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/bg-1.jpg');">
+      <div class="container position-relative">
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2>Contact Us</h2>
+            <p><q>Donot be deceived: evil communication corrupts good manners</q>
+              <br><b>1 CORINTHIANS 15:33</b>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li>Contact</li>
+        </ol>
+      </div>
+    </nav>
+  </div><!-- End Breadcrumbs -->
+
+  <!-- ======= Contact Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container">
+    </div>
+
+    <div class="map">
+      <iframe style="border:0; width: 100%; height: 350px;"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28373.005534744014!2d11.451456318219941!3d3.8202854222893428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2scm!4v1686218833202!5m2!1sfr!2scm"
+        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">"
+        frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="container mt-5">
+
+      <div class="info-wrap">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 info">
+            <i class="bi bi-geo-alt"></i>
+            <h4>Location:</h4>
+            <p>Symbock ,yaounde<br>cameroon</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
+            <i class="bi bi-clock"></i>
+            <h4>Open Hours:</h4>
+            <p>Monday-Sunday:<br>00:00 AM - 23;00 PM</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
+            <i class="bi bi-envelope"></i>
+            <h4>Email:</h4>
+            <p>peaceinchrist27@gmail.com<br>peaceinchrist27@gmail.com</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
+            <i class="bi bi-phone"></i>
+            <h4>Call:</h4>
+            <p>+237 681506575<br>+237 681506575</p>
+          </div>
+        </div>
+      </div>
+
+      <form action="https://formspree.io/f/mknalkyj" method="post" role="form" class="php-email-form">
+        <div class="row">
+          <div class="col-md-6 form-group">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+          </div>
+          <div class="col-md-6 form-group mt-3 mt-md-0">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+          </div>
+        </div>
+        <div class="form-group mt-3">
+          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+        </div>
+        <div class="form-group mt-3">
+          <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <div class="text-center"><button type="submit">Send Message</button></div>
+      </form>
+
+    </div>
+  </section><!-- End Contact Section -->
+  </div>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <h3>PEACE IN CHRIST &trade;</h3>
+      <p><b>"</b>The law is for the rich and the gospel
+        for the brokenhearted <b>"</b> <b>MARTIN LUTHER</b></p>
+      <div class="social-links">
+        <a href="www.facebook.com/peaceinchrist" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="www.youtube.com/peaceinchrist" class="instagram"><i class="bx bxl-youtube"></i></a>
+        <a href="wa.me/+237681506575" class="google-plus"><i class="bx bxl-whatsapp"></i></a>
+        <a href="www.tiktok.com/peaceinchrist01" class="linkedin"><i class="bx bxl-tiktok"></i></a>
+      </div>
+      <div class="copyright">
+        &copy; Copyright <strong><span>PEACE IN CHRIST &trade;</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/aos/aos1.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>
